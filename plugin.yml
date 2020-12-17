@@ -1,0 +1,8 @@
+name: AuraStaff
+main: me.zsergio.aurastaff.AuraStaff
+version: 1.0
+author: zSergioh
+commands:
+  staff:
+
+  ss:
